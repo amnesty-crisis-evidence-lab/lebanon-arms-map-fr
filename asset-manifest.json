@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lebanon-arms-map-fr/static/css/main.b93ac3df.chunk.css",
+    "main.js": "/lebanon-arms-map-fr/static/js/main.a403033b.chunk.js",
+    "main.js.map": "/lebanon-arms-map-fr/static/js/main.a403033b.chunk.js.map",
+    "runtime-main.js": "/lebanon-arms-map-fr/static/js/runtime-main.5e2ceb0f.js",
+    "runtime-main.js.map": "/lebanon-arms-map-fr/static/js/runtime-main.5e2ceb0f.js.map",
+    "static/js/2.d541cbc9.chunk.js": "/lebanon-arms-map-fr/static/js/2.d541cbc9.chunk.js",
+    "static/js/2.d541cbc9.chunk.js.map": "/lebanon-arms-map-fr/static/js/2.d541cbc9.chunk.js.map",
+    "static/js/3.6b5c2a38.chunk.js": "/lebanon-arms-map-fr/static/js/3.6b5c2a38.chunk.js",
+    "static/js/3.6b5c2a38.chunk.js.map": "/lebanon-arms-map-fr/static/js/3.6b5c2a38.chunk.js.map",
+    "index.html": "/lebanon-arms-map-fr/index.html",
+    "static/css/main.b93ac3df.chunk.css.map": "/lebanon-arms-map-fr/static/css/main.b93ac3df.chunk.css.map",
+    "static/js/2.d541cbc9.chunk.js.LICENSE.txt": "/lebanon-arms-map-fr/static/js/2.d541cbc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e2ceb0f.js",
+    "static/js/2.d541cbc9.chunk.js",
+    "static/css/main.b93ac3df.chunk.css",
+    "static/js/main.a403033b.chunk.js"
+  ]
+}
