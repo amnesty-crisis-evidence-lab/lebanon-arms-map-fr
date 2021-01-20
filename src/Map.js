@@ -13,7 +13,7 @@ const Map = () => {
     const initialiseMap = ({ setMap, containerRef }) => {
       const map = new mapboxgl.Map({
         container: containerRef.current,
-        style: "mapbox://styles/amnestydecoders/ckjy6y3ll2ha317pjtsmwqne4",
+        style: "mapbox://styles/amnestydecoders/ckk5psq1p0rmj17mkudy7k95z",
         center: [35.8481945, 33.8841665],
         zoom: 5,
         minZoom: 5,
