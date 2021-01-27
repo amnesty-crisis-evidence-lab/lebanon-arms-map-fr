@@ -128,7 +128,7 @@ const Map = () => {
           new mapboxgl.Popup()
             .setLngLat(coordinates)
             .setHTML(
-              `<strong>Event date:</strong> ${eventDate}<br><strong>Arms type:</strong> ${tooltip}<br><strong>Longitude:</strong> ${longitude.toFixed(
+              `<strong>Date de l’événement:</strong> ${eventDate}<br><strong>Type d’armes:</strong> ${tooltip}<br><strong>Longitude:</strong> ${longitude.toFixed(
                 4
               )}<br><strong>Latitude:</strong> ${latitude.toFixed(4)}`
             )
